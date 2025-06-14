@@ -21,13 +21,13 @@ More details:
 <p align="center">
     <img 
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" 
-        width="50" 
-        height="50"
+        width="60" 
+        height="60"
     >
     <img 
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Dark.svg"
-        width="50"
-        height="50"
+        width="60"
+        height="60"
     >
 </p>
 
@@ -38,28 +38,28 @@ More details:
 <p align="center">
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg"
-        width="40"
-        height="40"
+        width="60"
+        height="60"
     >
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg"
-        width="40"
-        height="40"
+        width="60"
+        height="60"
     >
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg"
-        width="40"
-        height="40"
+        width="60"
+        height="60"
     >
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kotlin-Dark.svg"
-        width="40"
-        height="40"
+        width="60"
+        height="60"
     >
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Light.svg"
-        width="40"
-        height="40"
+        width="60"
+        height="60"
     >
 </p>
 
@@ -69,24 +69,29 @@ More details:
 
 <p align="center">
     <img
-        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Light.svg"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg"
+        width="60"
+        height="60"
     >
     <img
-        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Light.svg"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg"
+        width="60"
+        height="60"
     >
     <img
-        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg"
+        width="60"
+        height="60"
     >
     <img
-        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sequelize-Light.svg"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sequelize-Dark.svg"
+        width="60"
+        height="60"
+    >
+    <img
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg"
+        width="60"
+        height="60"
     >
 </p>
 
