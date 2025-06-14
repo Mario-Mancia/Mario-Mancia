@@ -1,18 +1,17 @@
-<h1 align="center"> Hello everyone! I'm Mario-Mancia. 😁👋</h1>
-<p align="center"> Future professional developer | Backend programming skills | Learning new technologies </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mario-Mancia/Mario-Mancia/main/Mario-Mancia_BannerHD.png" alt="Mario Mancia Banner" width="100%" />
+</p>
 
 ---
 
-## About myself 🧑🏻
+## About myself 😎
 
-I'm a third-year computer science student, my favorite areas are web, desktop, and, more recently, mobile application development. My specialties include backend server management, database design and development, and implementing security measures in applications.
-
-More details: 
-
+I'm a 25-year-old, third-year computer science student with a passion for development.
+More details:
 - 🐧 Linux user...
 - 🌱 I’m currently learning...
 - 💻 I’m looking to collaborate on web, mobile and desktop projects...
-- 😎 Skills: Database administration (SQL), backend development...
+- 🎯 Skills: Database administration (SQL), backend development...
 
 ---
 
@@ -90,6 +89,11 @@ More details:
     >
     <img
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg"
+        width="60"
+        height="60"
+    >
+    <img
+        src="http://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/SQLite.svg"
         width="60"
         height="60"
     >
